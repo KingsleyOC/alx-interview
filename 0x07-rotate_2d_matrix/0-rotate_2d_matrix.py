@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-""" module contains algorithm that rotates a 2d array 90 degrees
+
+""" module will contain algorithm that rotates a 2d array 90 degrees
     clockwise
     APPROACH:
         -> normalize the 2d array to a 1d array by abstracting each
